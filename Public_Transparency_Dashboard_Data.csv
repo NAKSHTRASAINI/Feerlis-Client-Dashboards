@@ -1,0 +1,101 @@
+Date,Total_Funds_Raised,Total_Funds_Distributed,Total_Volunteer_Hours,NGO_Name,Campaign_Name,Impact_Score,Project_Name,Project_Completion_Percentage,Country,Region,Total_Impact_Score
+2024-11-03,3836,39020,460,Health for All,Healthcare Access,78,Healthcare Access,74.21035596304067,USA,Central,2302
+2024-08-09,43350,2182,219,Women Empowerment Network,Reforestation Drive,84,Poverty Alleviation,70.20244712354366,India,Central,6546
+2024-06-30,45024,35072,233,Hope Foundation,Healthcare Access,71,Reforestation Drive,75.75976260775587,India,North,5125
+2024-03-09,46769,32915,44,Women Empowerment Network,Poverty Alleviation,95,Reforestation Drive,51.074970009663176,Germany,North,7538
+2024-05-20,45992,34040,188,Women Empowerment Network,Clean Water Project,55,Clean Water Project,74.08111838172984,India,West,5129
+2024-04-09,17754,43073,489,Women Empowerment Network,Clean Water Project,63,Healthcare Access,77.923732068257,Canada,South,4307
+2024-07-11,45410,17663,297,Women Empowerment Network,Education for All,62,Healthcare Access,66.4073828102887,USA,Central,3475
+2024-12-01,31638,27629,145,Health for All,Clean Water Project,89,Reforestation Drive,47.886279930375885,USA,East,9458
+2024-09-01,2758,35042,473,Women Empowerment Network,Poverty Alleviation,69,Healthcare Access,58.99035720879144,Canada,Central,3509
+2024-04-01,41532,33073,26,Women Empowerment Network,Education for All,94,Healthcare Access,66.9823125085162,USA,East,6667
+2024-04-13,48728,43035,322,Women Empowerment Network,Education for All,79,Poverty Alleviation,51.32391738833398,India,Central,8461
+2024-05-27,24261,43861,206,Women Empowerment Network,Education for All,84,Reforestation Drive,12.26108559563949,India,South,3300
+2024-09-29,15167,43046,348,Green Earth Initiative,Poverty Alleviation,62,Education for All,53.34655022083925,India,Central,8733
+2024-09-03,30971,22755,492,Green Earth Initiative,Clean Water Project,53,Clean Water Project,20.989529328820375,Germany,East,7456
+2024-05-26,33695,19241,436,Health for All,Healthcare Access,77,Poverty Alleviation,22.515055730596682,India,Central,8954
+2024-10-26,21711,20526,180,EduCare,Healthcare Access,52,Poverty Alleviation,47.896602656773375,Canada,East,3279
+2024-07-12,13896,16612,499,Hope Foundation,Reforestation Drive,82,Reforestation Drive,24.53450080080038,USA,West,5324
+2024-11-19,46316,24397,232,Hope Foundation,Poverty Alleviation,75,Clean Water Project,76.70395209405419,USA,West,9496
+2024-02-01,2465,2076,142,Hope Foundation,Education for All,58,Reforestation Drive,73.77808598591932,Canada,South,4548
+2024-06-11,15288,41241,11,Women Empowerment Network,Reforestation Drive,93,Education for All,95.21369948674,India,East,7461
+2024-12-16,43038,15711,196,Green Earth Initiative,Poverty Alleviation,69,Poverty Alleviation,49.049841819944376,Canada,West,4838
+2024-12-28,26123,7323,191,Hope Foundation,Healthcare Access,69,Clean Water Project,21.845256309588393,Germany,South,8009
+2024-10-10,3912,18708,452,EduCare,Healthcare Access,50,Poverty Alleviation,30.036657116017984,Germany,Central,4698
+2024-04-21,19055,30197,101,Hope Foundation,Clean Water Project,86,Healthcare Access,31.994909161729712,UK,North,5379
+2024-01-09,29472,9470,101,Green Earth Initiative,Poverty Alleviation,86,Education for All,65.3480777339183,Canada,South,8664
+2024-04-26,36600,25548,315,Hope Foundation,Healthcare Access,84,Healthcare Access,24.953479261123384,USA,East,2969
+2024-09-01,18475,20762,404,EduCare,Poverty Alleviation,62,Clean Water Project,51.62324847019779,Canada,West,8417
+2024-02-22,14543,21930,305,Hope Foundation,Education for All,88,Education for All,82.88611007681436,Canada,West,6223
+2024-09-18,27784,35541,85,Hope Foundation,Education for All,68,Reforestation Drive,74.1498438656374,USA,Central,9722
+2024-10-09,13956,19557,146,Women Empowerment Network,Poverty Alleviation,99,Poverty Alleviation,23.28831887923463,Canada,South,8275
+2024-05-11,17525,41281,124,Health for All,Education for All,54,Clean Water Project,82.06920292996185,Canada,North,5736
+2024-02-18,37386,21116,20,Health for All,Education for All,96,Education for All,45.610809733114685,USA,North,3809
+2024-04-11,40924,28965,465,Women Empowerment Network,Reforestation Drive,92,Poverty Alleviation,35.86550962331404,UK,South,6165
+2024-12-08,2168,27604,343,Women Empowerment Network,Poverty Alleviation,67,Education for All,90.91094831069483,UK,East,2415
+2024-04-03,19060,2049,31,Health for All,Poverty Alleviation,66,Healthcare Access,16.892840053654606,UK,Central,6398
+2024-03-11,21884,26731,363,Women Empowerment Network,Healthcare Access,87,Poverty Alleviation,30.485061356264808,Germany,Central,9239
+2024-03-24,42160,42280,404,EduCare,Clean Water Project,74,Education for All,75.2969453630804,Canada,North,9384
+2024-03-11,13274,1748,392,Hope Foundation,Clean Water Project,65,Poverty Alleviation,57.39500783845909,UK,East,5247
+2024-08-18,27440,34527,177,Health for All,Clean Water Project,72,Healthcare Access,96.22676726989386,Canada,North,1635
+2024-03-22,34146,19370,16,Hope Foundation,Poverty Alleviation,57,Education for All,26.78053471419602,Germany,North,8959
+2024-02-02,1976,43530,271,Green Earth Initiative,Clean Water Project,97,Clean Water Project,16.345629550748413,UK,East,5243
+2024-04-01,7780,29860,107,Hope Foundation,Reforestation Drive,69,Poverty Alleviation,98.0814001331773,UK,West,9250
+2024-01-01,41866,7427,378,Hope Foundation,Reforestation Drive,90,Clean Water Project,99.39903620043347,UK,East,6755
+2024-05-06,20444,9826,333,EduCare,Clean Water Project,57,Reforestation Drive,62.37613953069124,India,West,3472
+2024-01-15,36252,39392,138,EduCare,Healthcare Access,98,Clean Water Project,16.415138152661612,India,South,9727
+2024-01-02,21251,7742,30,Hope Foundation,Clean Water Project,61,Healthcare Access,24.21153686707377,India,North,5496
+2024-08-01,35087,44136,133,EduCare,Poverty Alleviation,70,Reforestation Drive,41.3662383205468,Germany,South,7041
+2024-12-12,4133,24324,249,Green Earth Initiative,Poverty Alleviation,64,Reforestation Drive,74.00052472610632,India,South,3904
+2024-05-02,18044,11933,41,Women Empowerment Network,Clean Water Project,58,Reforestation Drive,15.47440104313431,India,West,1405
+2024-06-14,36959,41569,187,Women Empowerment Network,Poverty Alleviation,98,Clean Water Project,10.202113789789925,Canada,Central,6852
+2024-10-04,36970,31494,205,EduCare,Poverty Alleviation,67,Reforestation Drive,88.17380499649809,UK,West,6515
+2024-12-20,26665,9996,498,Women Empowerment Network,Clean Water Project,68,Clean Water Project,10.759096913955677,USA,South,9511
+2024-05-22,29757,1138,52,Hope Foundation,Reforestation Drive,79,Reforestation Drive,97.31588668493171,Canada,West,4051
+2024-01-22,34387,37047,484,Green Earth Initiative,Poverty Alleviation,61,Reforestation Drive,95.31844235079676,Canada,North,7243
+2024-01-04,4527,13287,373,Women Empowerment Network,Reforestation Drive,89,Education for All,41.17678338429152,India,Central,1428
+2024-08-09,6914,30965,242,EduCare,Clean Water Project,67,Education for All,33.55545202684398,Canada,South,5653
+2024-12-23,22262,12487,108,Hope Foundation,Education for All,71,Reforestation Drive,53.70053597849405,UK,North,2756
+2024-07-18,35446,34548,286,Health for All,Healthcare Access,65,Clean Water Project,17.087739682773528,Canada,East,3165
+2024-03-01,7472,30296,271,Women Empowerment Network,Poverty Alleviation,78,Healthcare Access,40.598265606729775,India,West,5954
+2024-09-29,9742,11594,187,Hope Foundation,Reforestation Drive,95,Reforestation Drive,94.4651754228601,USA,South,3139
+2024-03-18,36368,3868,345,Hope Foundation,Education for All,100,Education for All,64.80896338773624,USA,Central,8382
+2024-01-21,21089,34294,22,Green Earth Initiative,Clean Water Project,74,Education for All,65.0279171376155,USA,West,6966
+2024-07-12,31621,29481,493,Hope Foundation,Poverty Alleviation,98,Reforestation Drive,41.42602676670528,Canada,East,5408
+2024-04-08,21520,18082,37,EduCare,Clean Water Project,97,Healthcare Access,20.12890872186406,India,Central,9581
+2024-11-04,5075,21336,224,Green Earth Initiative,Clean Water Project,68,Education for All,76.83408271491531,Germany,South,6585
+2024-08-23,23474,6050,117,EduCare,Clean Water Project,80,Education for All,93.95787336046844,Canada,East,4784
+2024-07-20,35393,2858,279,Women Empowerment Network,Poverty Alleviation,64,Reforestation Drive,84.677716047293,UK,East,6908
+2024-11-29,27097,43549,217,Health for All,Reforestation Drive,87,Poverty Alleviation,45.783874124525454,USA,Central,4689
+2024-03-30,9063,19815,474,Women Empowerment Network,Poverty Alleviation,68,Healthcare Access,61.16165289158474,USA,South,8433
+2024-04-06,28533,33639,407,Green Earth Initiative,Reforestation Drive,59,Healthcare Access,28.229840634275597,USA,West,521
+2024-01-22,28380,23935,39,Health for All,Poverty Alleviation,89,Education for All,17.58535767849836,India,West,1500
+2024-08-15,29226,1584,20,Health for All,Education for All,89,Education for All,52.92838983328508,India,Central,2916
+2024-10-21,3580,35873,485,Women Empowerment Network,Education for All,97,Reforestation Drive,94.11749086870175,USA,North,2473
+2024-08-14,4130,33637,428,EduCare,Clean Water Project,76,Clean Water Project,82.43354903900848,Canada,South,7375
+2024-07-05,31430,9708,381,Women Empowerment Network,Clean Water Project,77,Healthcare Access,97.3740465561681,Canada,East,9967
+2024-06-22,44555,19447,269,EduCare,Reforestation Drive,98,Healthcare Access,17.944165163672512,India,Central,2246
+2024-08-05,9750,40882,496,Women Empowerment Network,Reforestation Drive,60,Reforestation Drive,25.559678444892437,UK,East,8720
+2024-10-15,40074,4645,122,Hope Foundation,Poverty Alleviation,63,Poverty Alleviation,12.21159022097429,UK,West,4622
+2024-02-14,25307,4249,53,EduCare,Healthcare Access,62,Education for All,99.67638562213621,UK,Central,8248
+2024-12-09,41200,4271,17,Health for All,Poverty Alleviation,77,Poverty Alleviation,11.034725071504207,Germany,West,3885
+2024-05-23,46065,7144,143,Health for All,Healthcare Access,88,Reforestation Drive,74.31561144298993,Germany,West,4436
+2024-09-14,46959,43271,41,Hope Foundation,Healthcare Access,87,Education for All,85.3115225537006,UK,West,5687
+2024-07-08,24363,25212,184,Health for All,Reforestation Drive,65,Education for All,36.83439464456114,Germany,South,8273
+2024-10-07,37156,6115,66,Health for All,Education for All,73,Poverty Alleviation,64.16486456892483,India,North,3955
+2024-07-06,40504,5086,480,Health for All,Reforestation Drive,79,Education for All,40.51545880839726,Canada,East,9160
+2024-02-01,43229,7372,161,Green Earth Initiative,Healthcare Access,52,Poverty Alleviation,23.69665682576914,Germany,Central,7949
+2024-08-26,22034,43209,173,Health for All,Education for All,95,Reforestation Drive,33.80667877659464,USA,West,7101
+2024-07-26,2826,14186,487,Hope Foundation,Poverty Alleviation,88,Healthcare Access,13.87412223458741,UK,South,6152
+2024-10-19,19925,11181,195,Health for All,Healthcare Access,87,Clean Water Project,49.426087155084396,Germany,Central,5595
+2024-04-04,40734,18718,214,Green Earth Initiative,Education for All,81,Education for All,23.55363600458297,USA,East,5055
+2024-12-04,19312,7649,137,Health for All,Poverty Alleviation,68,Reforestation Drive,91.23846057757072,UK,West,3108
+2024-11-20,2832,9621,148,Hope Foundation,Clean Water Project,73,Education for All,45.294932938414796,Germany,Central,8732
+2024-07-28,41221,5809,318,Health for All,Education for All,52,Clean Water Project,54.2038209172754,Canada,North,3364
+2024-01-28,15560,42765,313,Women Empowerment Network,Healthcare Access,56,Healthcare Access,19.659292764042725,USA,North,2658
+2024-12-30,24378,7362,87,Women Empowerment Network,Clean Water Project,78,Reforestation Drive,18.37440730806189,USA,South,6205
+2024-02-02,28012,8443,462,Women Empowerment Network,Education for All,73,Clean Water Project,18.384513232466993,Germany,Central,4539
+2024-09-19,40909,19091,367,EduCare,Clean Water Project,66,Healthcare Access,89.4996787627067,Canada,East,4073
+2024-11-27,46448,41236,104,Hope Foundation,Education for All,63,Healthcare Access,20.257059905169005,India,South,1019
+2024-11-30,28119,5749,50,Health for All,Education for All,83,Healthcare Access,81.96697267657905,India,North,6562
+2024-04-19,9416,2360,52,EduCare,Healthcare Access,59,Poverty Alleviation,66.649322663992,Germany,Central,986

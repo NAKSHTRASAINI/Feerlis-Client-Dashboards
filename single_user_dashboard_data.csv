@@ -1,0 +1,101 @@
+Date,Donation_Category,Donation_Amount,Leaderboard_Rank,Volunteer_Hours,Points_Earned,Points_Redeemed,People_Referred,Total_Contribution_By_Referred,Cause_Category,Calculated_Impact_Score,Updated_Leaderboard_Rank
+04-01-2024,Animal Welfare,10,49,13,33,20,3,41.65,Environment,8.67,88
+08-01-2024,Women Empowerment,10,50,8,16,15,1,13.88,Health,6.33,91
+20-01-2024,Poverty Relief,10,50,5,43,5,3,41.65,Health,6.00,92
+22-01-2024,Healthcare,49.35,49,1,58,17,2,27.77,Education,17.45,77
+23-01-2024,Education,10,47,4,51,28,3,0,Disaster Relief,5.67,92
+27-01-2024,Education,50,48,14,37,15,5,69.42,Health,23.00,69
+28-01-2024,Environment,200,48,8,68,48,1,0,Environment,69.67,6
+29-01-2024,Education,15.89,49,6,51,29,3,41.65,Animal Welfare,8.30,89
+04-02-2024,Environment,10,48,17,53,36,4,55.54,Animal Welfare,10.33,86
+07-02-2024,Education,100,48,15,58,39,1,13.88,Environment,38.67,48
+11-02-2024,Healthcare,100,46,2,45,42,1,13.88,Disaster Relief,34.33,54
+16-02-2024,Animal Welfare,35.25,43,18,63,24,2,0,Education,18.42,75
+17-02-2024,Education,100,43,8,42,21,3,0,Health,37.00,50
+21-02-2024,Education,10,44,4,20,1,0,0,Animal Welfare,4.67,94
+23-02-2024,Women Empowerment,10,43,15,70,31,2,27.77,Disaster Relief,9.00,88
+24-02-2024,Animal Welfare,10,45,5,12,20,2,27.77,Education,5.67,92
+24-02-2024,Poverty Relief,20,43,15,79,11,0,0,Disaster Relief,11.67,84
+28-02-2024,Environment,100,40,17,16,31,3,0,Education,40.00,46
+06-03-2024,Environment,100,40,18,54,13,1,0,Animal Welfare,39.67,47
+08-03-2024,Women Empowerment,39.27,43,20,38,22,0,0,Health,19.76,73
+20-03-2024,Women Empowerment,10,42,11,93,16,2,27.77,Health,7.67,90
+22-03-2024,Animal Welfare,50,40,15,18,21,0,0,Health,21.67,71
+23-03-2024,Healthcare,100,40,20,93,17,3,41.65,Environment,41.00,45
+25-03-2024,Healthcare,50,40,17,15,38,2,0,Environment,23.00,69
+31-03-2024,Poverty Relief,15.69,41,14,13,44,4,0,Disaster Relief,11.23,85
+07-04-2024,Healthcare,10,40,18,41,17,0,0,Education,9.33,87
+17-04-2024,Environment,200,36,15,35,35,4,0,Education,73.00,2
+17-04-2024,Environment,200,38,6,12,0,0,0,Health,68.67,8
+24-04-2024,Education,37.77,39,16,89,33,1,13.88,Animal Welfare,18.26,75
+25-04-2024,Education,21.55,35,15,29,12,1,0,Health,12.52,83
+27-04-2024,Healthcare,33.45,36,9,40,5,4,55.54,Disaster Relief,15.48,79
+29-04-2024,Poverty Relief,50,33,8,26,15,1,0,Environment,19.67,74
+03-05-2024,Poverty Relief,33.51,36,9,70,46,2,27.77,Health,14.84,80
+05-05-2024,Education,50,32,17,95,26,1,0,Health,22.67,70
+07-05-2024,Education,200,36,16,24,31,3,41.65,Health,73.00,2
+14-05-2024,Women Empowerment,10,35,8,82,35,1,13.88,Health,6.33,91
+14-05-2024,Animal Welfare,50,32,9,37,48,4,0,Health,21.00,72
+14-05-2024,Education,50,32,15,69,15,2,27.77,Education,22.33,70
+15-05-2024,Education,200,33,3,99,44,0,0,Animal Welfare,67.67,9
+22-05-2024,Healthcare,29.11,29,10,42,30,0,0,Animal Welfare,13.04,82
+30-05-2024,Poverty Relief,100,31,8,57,41,2,0,Animal Welfare,36.67,51
+31-05-2024,Education,9.06,32,9,31,45,0,0,Education,6.02,92
+08-06-2024,Healthcare,200,30,11,87,31,5,69.42,Education,72.00,3
+09-06-2024,Education,50,27,11,87,28,4,55.54,Education,21.67,71
+10-06-2024,Women Empowerment,10,29,18,24,50,4,55.54,Disaster Relief,10.67,86
+18-06-2024,Education,10,30,3,30,1,1,13.88,Environment,4.67,94
+19-06-2024,Animal Welfare,50,28,5,49,5,0,0,Animal Welfare,18.33,75
+21-06-2024,Education,50,28,5,23,18,1,0,Environment,18.67,75
+23-06-2024,Education,10,27,8,84,14,3,0,Environment,7.00,91
+25-06-2024,Environment,42.59,27,13,13,25,4,0,Environment,19.86,73
+30-06-2024,Healthcare,50,26,5,49,44,1,13.88,Disaster Relief,18.67,75
+04-07-2024,Healthcare,200,27,7,83,15,0,0,Animal Welfare,69.00,7
+04-07-2024,Poverty Relief,20,24,3,96,19,2,27.77,Animal Welfare,8.33,89
+08-07-2024,Healthcare,10,23,14,58,42,0,0,Environment,8.00,89
+08-07-2024,Education,50,25,14,60,37,3,41.65,Animal Welfare,22.33,70
+16-07-2024,Healthcare,50,24,11,35,23,1,0,Animal Welfare,20.67,72
+23-07-2024,Healthcare,10,22,18,19,30,0,0,Education,9.33,87
+24-07-2024,Education,10,24,15,85,35,1,13.88,Animal Welfare,8.67,88
+25-07-2024,Animal Welfare,19.44,24,14,98,33,2,27.77,Animal Welfare,11.81,84
+27-07-2024,Education,13.39,21,2,90,22,5,0,Disaster Relief,6.80,91
+02-08-2024,Education,100,22,7,41,27,0,0,Health,35.67,52
+06-08-2024,Healthcare,6.83,22,14,23,47,1,13.88,Education,7.28,90
+12-08-2024,Poverty Relief,50,18,13,99,35,0,0,Education,21.00,72
+20-08-2024,Education,200,19,19,48,21,2,0,Animal Welfare,73.67,1
+20-08-2024,Education,200,19,1,97,22,0,0,Animal Welfare,67.00,10
+23-08-2024,Healthcare,10,17,19,86,44,5,0,Health,11.33,85
+05-09-2024,Healthcare,50,19,13,25,29,1,0,Disaster Relief,21.33,71
+05-09-2024,Poverty Relief,100,19,16,82,17,2,27.77,Health,39.33,47
+05-09-2024,Education,10,19,1,15,19,2,27.77,Environment,4.33,94
+12-09-2024,Healthcare,200,16,12,54,16,3,0,Disaster Relief,71.67,4
+16-09-2024,Environment,10,17,10,78,14,2,27.77,Health,7.33,90
+17-09-2024,Education,10,16,13,64,7,1,13.88,Education,8.00,89
+27-09-2024,Poverty Relief,50,16,14,94,46,0,0,Health,21.33,71
+01-10-2024,Education,50,13,18,57,12,2,0,Education,23.33,69
+03-10-2024,Animal Welfare,200,16,18,18,20,3,0,Education,73.67,1
+04-10-2024,Education,20,14,20,74,7,2,0,Health,14.00,81
+06-10-2024,Education,50,12,8,92,47,3,41.65,Environment,20.33,73
+08-10-2024,Education,200,10,16,53,34,4,55.54,Education,73.33,1
+10-10-2024,Poverty Relief,31.59,12,8,11,48,0,0,Disaster Relief,13.20,82
+11-10-2024,Environment,50,13,9,63,44,5,69.42,Disaster Relief,21.33,71
+13-10-2024,Poverty Relief,50,13,14,72,11,3,41.65,Animal Welfare,22.33,70
+14-10-2024,Education,200,10,16,23,12,2,0,Education,72.67,2
+17-10-2024,Poverty Relief,20,8,1,65,13,2,27.77,Health,7.67,90
+18-10-2024,Education,100,8,13,56,47,0,0,Health,37.67,49
+19-10-2024,Healthcare,10,9,11,91,30,2,27.77,Health,7.67,90
+26-10-2024,Healthcare,100,7,13,68,17,3,41.65,Disaster Relief,38.67,48
+02-11-2024,Healthcare,35.49,7,6,100,46,1,13.88,Animal Welfare,14.16,81
+05-11-2024,Education,20,6,15,29,37,0,0,Disaster Relief,11.67,84
+19-11-2024,Education,5.75,5,5,65,48,3,41.65,Health,4.58,94
+20-11-2024,Poverty Relief,100,4,20,32,33,1,13.88,Health,40.33,46
+21-11-2024,Poverty Relief,10,5,18,76,38,0,0,Environment,9.33,87
+23-11-2024,Environment,10,6,1,93,18,0,0,Education,3.67,95
+23-11-2024,Education,200,7,13,44,6,2,0,Disaster Relief,71.67,4
+24-11-2024,Healthcare,20,2,19,88,12,4,55.54,Disaster Relief,14.33,81
+26-11-2024,Education,20,5,19,78,18,4,55.54,Animal Welfare,14.33,81
+27-11-2024,Education,200,4,1,71,14,5,0,Education,68.67,8
+04-12-2024,Education,20,5,3,69,23,3,41.65,Environment,8.67,88
+07-12-2024,Poverty Relief,20,1,14,65,11,1,0,Disaster Relief,11.67,84
+19-12-2024,Women Empowerment,100,3,5,85,19,2,27.77,Environment,35.67,52
+26-12-2024,Healthcare,200,2,15,44,0,2,0,Health,72.33,3
