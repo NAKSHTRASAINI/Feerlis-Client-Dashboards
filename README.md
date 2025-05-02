@@ -68,6 +68,7 @@ To help individual users **track their contributions** and see how they rank com
 
 - `/Dashboard_Public.png` – Public Transparency Dashboard (demo)
 - `/Dashboard_User.png` – Single User Dashboard (demo)
+- `/Dashboard_User.png` - Leaderboard Ranking Dashboard (demo)
 
 ---
 
@@ -76,6 +77,18 @@ To help individual users **track their contributions** and see how they rank com
 - **Tool:** Tableau  
 - **Data:** Simulated demo dataset  
 - **Deployment:** PNG previews, Tableau Public
+
+- Tableau Dashboard Links
+**Public Transparency Dashboard**
+https://public.tableau.com/views/updatedpublicdashbaord/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Single User Dashboard**
+https://public.tableau.com/views/UPDATESINGLEUSERDASHBOARD/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Leaderboard Ranking Dashboard**
+https://public.tableau.com/views/Book2_17438392045600/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 
 
 
