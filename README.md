@@ -49,7 +49,7 @@ To help individual users **track their contributions** and see how they rank com
 ## 🧪 Data Source
 
 > ⚠️ **Note:** All data used in these dashboards is **arbitrary and simulated**.  
-> These visualizations serve as **prototypes** for our upcoming platform, currently under development.
+> These visualizations serve as **prototypes** for client's upcoming platform, currently under development.
 
 ---
 
