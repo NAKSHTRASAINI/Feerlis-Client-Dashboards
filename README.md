@@ -1,7 +1,6 @@
 # 🌟 Impact Dashboards
 
-This repository contains two Tableau-based dashboards built for showcasing and tracking social impact: the Public Transparency Dashboard and the Single User Dashboard. These dashboards are based on sample data as the platform is still in development.
-
+This repository contains four Tableau-based dashboards built for showcasing and tracking social impact: the Public Transparency Dashboard, the Single User Dashboard, the CSR Dashboard, and the NGO Dashboard. These dashboards are based on sample data as the platform is still in development.
 ---
 
 ## 🌍 Public Transparency Dashboard
