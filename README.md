@@ -75,10 +75,10 @@ These visualizations serve as prototypes for the client's upcoming platform, cur
 ![Single User Dashboard](Dashboard_User.png)
 
 ### 📈 CSR Dashboard  
-![CSR Dashboard](CSR_Dashboard.png)
+![CSR Dashboard](CSR Dashboard.png)
 
 ### 🧾 NGO Dashboard  
-![NGO Dashboard](NGO_Dashboard.png)
+![NGO Dashboard](NGO Dashboard.png)
 
 
 
