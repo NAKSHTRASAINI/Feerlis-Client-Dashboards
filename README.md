@@ -80,7 +80,5 @@ These visualizations serve as prototypes for the client's upcoming platform, cur
 ### 🧾 NGO Dashboard  
 ![NGO Dashboard](NGO_Dashboard.png)
 
----
 
-## 📁 Files
 
